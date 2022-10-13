@@ -1,6 +1,8 @@
-h1 {
+#h1 {
   text-align: center;
   font-family: fantasy;
+  background-color: blue;
+  position: fixed;
 }
 
 
@@ -10,9 +12,9 @@ h1 {
 }
 
 .split{
-  height: 100%;
+
   width: 50%;
-  position: fixed;
+  position: absolute;
   padding-top: 20px;
 }
 
@@ -22,20 +24,19 @@ h1 {
   background-color: thistle;
 }
 
+.right {
+  right: 0;
+  text-align: center;
+  background-color: LightSteelBlue;
+}
+
 #pic {
   width: 500px;
   height: 800px;
 }
 
 .assignments {
-  padding-top: 700px;
+  position: relative;
   text-align: center
   list-style-position: inside;
-
-}
-
-.right {
-  right: 0;
-  text-align: center;
-  background-color: LightSteelBlue;
-}
+  padding-top: 900px;
