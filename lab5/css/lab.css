@@ -1,0 +1,27 @@
+#pic {
+  width: 500px;
+  float: right;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+body {
+
+  background-color: #79856B;
+  border-style: solid;
+  border-color: darkgreen;
+  border-width: thick;
+  padding: 20px;
+}
+ #content {
+
+ }
+
+ #heading {
+   font-size: 40px;
+   color: #463219;
+ }
+
+.par {
+  font-size: 15px;
+}
