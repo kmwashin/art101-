@@ -1,0 +1,41 @@
+body {
+  background-color: pink;
+  text-align: center;
+}
+
+h2 {
+  font-family: papyrus, fantasy;
+  font-size: 35px;
+  color: white;
+}
+#my-button {
+  transition-duration: 0.4s;
+  margin-top: 30px;
+}
+
+#my-button:hover {
+  background-color: #D3D3D3;
+  color: white;
+}
+#my-button-an {
+  transition-duration: 0.4s;
+  margin-top: 30px;
+}
+
+#my-button-an:hover {
+  background-color: #D3D3D3;
+  color: white;
+}
+
+p {
+  padding: 5px;
+  font-family: "Console", monospace;
+  font-size: 15px;
+  color: black;
+}
+
+a {
+  font-family: console, monospace;
+  font-size: 20px;
+  color: white;
+}

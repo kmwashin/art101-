@@ -1,0 +1,26 @@
+body {
+  background-image: radial-gradient(white, blue, seagreen);
+}
+
+.heading {
+  font-family: papyrus, fantasy;
+  font-size: 35px;
+  color: seagreen;
+}
+
+.par {
+  padding: 5px;
+  font-family: "Console", monospace;
+  font-size: 15px;
+  color: black;
+}
+
+a {
+  font-family: console, monospace;
+  font-size: 20px;
+  color: darkblue;
+}
+
+#pic {
+  width: 150px;
+}
