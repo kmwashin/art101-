@@ -1,0 +1,50 @@
+body {
+  background: #055220;
+  text-align: center;
+}
+
+.content {
+  background: radial-gradient(#075166, #B5CFB2, #055220);
+  border-style: solid;
+  border-color: #055220;
+  border-radius: 40px;
+}
+
+.heading {
+  font-family: papyrus, fantasy;
+  font-size: 35px;
+  color: black;
+}
+
+h1 {
+  font-family: papyrus, fantasy;
+  font-size: 40px;
+  font-weight: bold;
+  color: #055220;
+}
+
+#button {
+  transition-duration: 0.4s;
+  margin-top: 30px;
+  background-color: #A8D5E2;
+  color: black;
+}
+
+p {
+  font-family: "Console", monospace;
+  font-size: 15px;
+  color: black;
+}
+
+a {
+  font-family: console, monospace;
+  font-size: 20px;
+  color: white;
+}
+
+#output {
+  columns: 4;
+  border-style: double;
+  border-width: 10px;
+  border-color: #075166;
+}

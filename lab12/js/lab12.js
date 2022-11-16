@@ -25,8 +25,11 @@ function sortingHat(name) {
   //mod == 3 or something other than 0-2
   else {
     var animal = "squirrel";
+    var bunny = "This is a small fuzzy creature that will get fat if you feed it too much on campus";
+    console.log("check:", bunny);
   }
   return animal;
+
 }
 
 
@@ -40,6 +43,10 @@ $("#button").click(function() {
   var name = $("#input").val();
   //sort Results
   var houseStr = sortingHat(name);
+
+
   //output the result
   $("#output").html("You're a silly little critter: " + houseStr);
+
+
 });
