@@ -23,13 +23,6 @@ h1 {
   color: #055220;
 }
 
-#button {
-  transition-duration: 0.4s;
-  margin-top: 30px;
-  background-color: #A8D5E2;
-  color: black;
-}
-
 p {
   font-family: "Console", monospace;
   font-size: 15px;
@@ -47,5 +40,8 @@ a {
   border-style: double;
   border-width: 10px;
   border-color: #075166;
-  font-family: "Console", monospace;
 }
+ img {
+   width: 500px;
+   margin-bottom: 50px;
+ }
