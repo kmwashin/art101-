@@ -1,0 +1,47 @@
+body {
+  background: pink;
+  text-align: center;
+}
+
+.content {
+  background: radial-gradient(#FC575E, #90D5EC);
+  border-style: solid;
+  border-color: #055220;
+  border-radius: 40px;
+}
+
+.heading {
+  font-family: papyrus, fantasy;
+  font-size: 35px;
+  color: black;
+}
+
+h1 {
+  font-family: papyrus, fantasy;
+  font-size: 40px;
+  font-weight: bold;
+  color: #055220;
+}
+
+p {
+  font-family: "Console", monospace;
+  font-size: 15px;
+  color: black;
+}
+
+a {
+  font-family: console, monospace;
+  font-size: 20px;
+  color: white;
+}
+
+#output {
+  columns: 4;
+  border-style: double;
+  border-width: 10px;
+  border-color: #075166;
+}
+ img {
+   width: 500px;
+   margin-bottom: 50px;
+ }
