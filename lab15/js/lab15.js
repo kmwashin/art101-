@@ -1,5 +1,5 @@
 // Author: Kenice Washington Keiko Utsumi
-// Date: 11/14/2022
+// Date: 11/21/2022
 // Email: klutsumi@ucsc.edu
 //Email: kmwashin@ucsc.edu
 // Using the core $.ajax() method
@@ -14,7 +14,7 @@ function getAPIData(){
             // here is where any data required by the api
             //   goes (check the api docs)
             id: 300,
-        
+
 
           },
     // Whether this is a POST or GET request
